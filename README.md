@@ -1,2 +1,3 @@
 # zs-svc-appointment
-ZarishSphere clinical microservice: appointment
+
+Generated directly from internal PRD specification.
